@@ -4,4 +4,4 @@ Advector is a programme that uses github to store and git to tranfer apps from a
 
 ### Example:
 
-For example, Blender can be imported using the `port` command. The changes made on Blender will still be saved and will be transfered to the github repository. Take a look at this [video](Advector 2024-12-03 17-48-18.mp4)
+For example, Blender can be imported using the `port` command. The changes made on Blender will still be saved and will be transfered to the github repository. Take a look at this [video](https://github.com/Harshal-ACSI/Advector/raw/refs/heads/main/Advector%202024-12-03%2017-48-18.mp4)
